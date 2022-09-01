@@ -7,7 +7,7 @@ This repository is for all the practical assignments of subject Computer Network
 1. Setup a network and configure IP addressing, subnetti Packet Tracer, Student Ed) 
 2. Use basic networking commands in Linux (ping, tracc RARP, ip, ifconfig, dig, route ) 
 3. Build a simple network topology and configure it for packet tracer. 
-4. Perform network discovery using discovery tools (eg. 
+4. Perform network discovery using discovery tools (eg. mrtg)
 5. Use Wireshark to understand the operation of TCP/IP 
    1. Ethernet Layer : Frame header, Frame size etc 
    2. Data Link Layer : MAC address, ARP (IP and 3. 
