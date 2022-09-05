@@ -6,7 +6,7 @@ l2=[]
 for i in range(0,n):
   x=input()
   l.append(x)
-  l2.append(len(x)+1)
+  l2.append(len(x))
 
 
 sender=''
@@ -24,6 +24,15 @@ while(i<len(data)):
     if(data[i].isnumeric()==True):
         print(data[i+1:int(data[i])+i])
         i+=int(data[i])
+
+
+
+
+
+
+
+
+
 
 
 
